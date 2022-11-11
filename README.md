@@ -1,4 +1,6 @@
-### Hi there 👋
+## 👋 Hi, I'm Chester
+
+[![wakatime](https://wakatime.com/badge/user/e9218f48-cf07-455e-8ee8-ffd99bd2b93b.svg?style=flat-square)](https://wakatime.com/@e9218f48-cf07-455e-8ee8-ffd99bd2b93b)
 
 <!--
 **thechez99/thechez99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
